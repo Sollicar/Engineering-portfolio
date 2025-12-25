@@ -18,7 +18,7 @@ MATLAB program that takes user-defined payload and orbital constraints and filte
 - Tools: MATLAB, Excel
 - Output: Filtered rocket options with performance and cost information
  [View Project](https://github.com/Sollicar/MATLAB-Rocket_Selection_Program)
-[View MATLAB outputs]( Images\MATLAB-graphs-tables.png)
+[View MATLAB outputs]( Images/MATLAB-graphs-tables.png)
 ---
 ## Skills
 - MATLAB (scripting, data handling)
